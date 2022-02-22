@@ -11,12 +11,17 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
+        <Header title="Ankit Aka Tiger" />
+        <div
+  loading="lazy"
+  data-mc-src="940dfaab-ec4e-4bc7-83b4-b0bc70703347#instagram"></div>
       </main>
-
+   
+        
+<script 
+  src="https://cdn2.woxo.tech/a.js#62156f5906ee92002f988ab4" 
+  async data-usrc>
+</script>
       <Footer />
     </div>
   )
