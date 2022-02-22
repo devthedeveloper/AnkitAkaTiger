@@ -15,6 +15,7 @@ export default function Home() {
         <div
   loading="lazy"
   data-mc-src="940dfaab-ec4e-4bc7-83b4-b0bc70703347#instagram"></div>
+  <div class="tagembed-container" style=" width:100%;height:100%;overflow: auto;"><div class="tagembed-socialwall" data-wall-id="27676" view-url="https://widget.tagembed.com/27676?view">  </div> <script src="//widget.tagembed.com/embed.min.js" type="text/javascript"></script></div>
       </main>
    
         
